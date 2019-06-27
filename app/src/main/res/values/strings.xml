@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Guia Turístico de São Paulo</string>
+    <string name="restaurant">Restaurante</string>
+    <string name="bar">Bar</string>
+    <string name="park">Parque</string>
+    <string name="theater">Teatro</string>
+    <string name="name_local">Nome Local</string>
+    <string name="description_local">Descrição Local</string>
+
+    <!--Restaurant-->
+    <string name="description_china_in_box">China in Box é uma rede de fast-food de comida chinesa, inaugurada em 1992 no bairro paulistano de Moema por Robinson Shiba e presente em várias cidades do Brasil, com 136 lojas.</string>
+    <string name="description_taco_bell">Taco Bell é uma cadeia estadunidense de restaurantes de fast-food, inspirada pela culinária mexicana e fundada por Glen Bell, após uma visita a uma franquia do McDonald´s, em 1954.</string>
+    <string name="description_kfc">Kentucky Fried Chicken é uma rede de restaurantes de fast-food estadunidense, que explora a antiga receita de frango frito do Kentucky, criada pelo Coronel Harland Sanders, fundador do KFC, em 1939, na cidade de Corbin, no estado do Kentucky, nos Estados Unidos.</string>
+    <string name="description_pizza_hut">Pizza Hut é uma cadeia de restaurantes e franquias com sede na cidade de Plano no Texas, especializada em pizzas e massas. A Pizza Hut é a maior cadeia de pizzarias do mundo, com quase 15 mil restaurantes e quiosques em mais de 130 países. Possui 95 restaurantes no Brasil e 91 em Portugal.</string>
+    <string name="description_mcdonalds">McDonald\'s Corporation é a maior cadeia mundial de restaurantes de fast food de hambúrguer, servindo cerca de 68 milhões de clientes por dia em 119 países através de 37 mil pontos de venda. Com sede nos Estados Unidos, a empresa começou em 1940 como uma churrascaria operada por Richard e Maurice McDonald.</string>
+
+    <!--Bar-->
+    <string name="vila_seu_justino">Vila seu Justino</string>
+    <string name="description_vila_seu_justino">O bar Vila Seu Justino possui mais de um ambiente e a sua programação é praticamente voltada para o samba e pagode. Em dias mais frios, a parte interna é a melhor opção, enquanto no calor, a área externa, ocupada por um pomar, é a pedida certa. O clima é propício para quem gosta de curtir uma boa música ao vivo em um ambiente bem brasileiro. De dia de semana rolam promoções de bebidas, como, por exemplo, o double chopp ou o open caipirinha. </string>
+    <string name="vila_567">Vila 567</string>
+    <string name="description_vila_567">Curtir um happy hour em um rooftop descolado com vista privilegiada da Vila Madalena ou até mesmo dançar na pista ao som de um show sertanejo ao vivo. Essa é a proposta da casa Vila 567, que mescla o melhor dos dois mundos com conforto e animação. Instalado no coração da Vila Madalena, o bar conta com uma estrutura inovadora e ambiente descolado, com um rooftop e teto retrátil exclusivos.</string>
+    <string name="biri_nait">Biri Nait</string>
+    <string name="description_biri_nait">Em uma antiga casa, o Biri Nait é um daqueles points que costumam ferver na noite de São Paulo. Com ótimos drinks, a casa oferece um ambiente intimista e moderno. Na pista, o melhor dos hits atuais embala o público. A dica é chegar antes das 22h para evitar a enorme fila que fica do lado de fora.</string>
+    <string name="bar_de_cima">Bar de Cima</string>
+    <string name="description_bar_de_cima">Para quem quer conhecer um ambiente diferente em São Paulo, o Bar de Cima é a pedida certa. A casa foca em um ambiente simples, mas moderno, para atrair seu público. Situado no mesmo prédio que o Chez, o espaço recebe diversas festas e eventos diferenciados para animar ainda mais. A dica é ficar de olho na agenda e colocar seu nome na lista. Na pista rola de pop até eletrônico e rock!</string>
+    <string name="trabuca">Trabuca</string>
+    <string name="description_trabuca">Ocupando um imóvel de mais de 1000 metros quadrados na movimentada Juscelino Kubitschek, o Trabuca Bar traz uma decoração descolada inspirada no pop art e um cardápio de dar água na boca. O carro-chefe da casa são os diferentes drinks e combinações deliciosas, tudo isso regado a muita música animada. À noite, o local se transforma em uma verdadeira balada com a presença de DJ\'s.</string>
+
+    <!--Park-->
+    <string name="parque_ibirapuera">Parque Ibirapuera</string>
+    <string name="description_parque_ibirapuera">O Parque Ibirapuera é um parque urbano na cidade de São Paulo, Brasil. Em 2017, foi o parque mais visitado da América Latina, com aproximadamente 14 milhões de visitas, além de ser um dos locais mais fotografados do mundo.</string>
+    <string name="parque_estadual_da_cantareira">Parque Estadual da Cantareira</string>
+    <string name="description_parque_estadual_da_cantareira">O Parque Estadual da Cantareira é uma Unidade de Conservação de Proteção Integral paulista que abrange parte da Serra da Cantareira. A condição de Parque Estadual foi adotada em 1962 e regularizada pelo Decreto Estadual nº 41.626 de 1963. Porém, apenas em 1968 foi publicado o decreto que oficializou sua criação.</string>
+    <string name="parque_estadual_serra_do_mar">Parque Estadual Serra do Mar</string>
+    <string name="description_parque_estadual_serra_do_mar">O Parque Estadual Serra do Mar tem cerca de 332.000 hectares, vai da divisa de São Paulo com o Rio de Janeiro até Itariri, no sul do estado paulista, cobrindo toda a região serrana e arredores da Serra do Mar dentro do estado, contendo a maior área contínua de Mata Atlântica preservada do Brasil.</string>
+    <string name="parque_estadual_villa_lobos">Parque Estadual Villa-Lobos</string>
+    <string name="description_parque_estadual_villa_lobos">O Parque Estadual Villa-Lobos é um parque público, localizado em Alto de Pinheiros, às margens do rio Pinheiros, na cidade de São Paulo, Brasil. A entrada principal do parque situa-se na avenida Professor Fonseca Rodrigues.</string>
+    <string name="thermas_dos_laranjais">Thermas dos Laranjais</string>
+    <string name="description_thermas_dos_laranjais">Considerado um dos melhores parques aquáticos do Brasil, Thermas dos Laranjais é um complexo turístico que atrai centenas de visitantes todos os anos. O local é uma verdadeira praia em meio ao cerrado e conta com atividades para todos os gostos e idades. Localizado na cidade de Olímpia, além da imensa infraestrutura, o espaço conta com opção de hospedagem. Dentre as atrações estão pista de surf, diversos toboáguas, mini bolha, piscina sonolenta e lazy river - esses dois últimos são ideais para relaxar!</string>
+    <string name="hopi_hari">Hopi Hari</string>
+    <string name="description_hopi_hari">O tradicional parque de diversões Hopi Hari reabriu suas portas em 2017 e está de cara nova: além das atrações famosas, o espaço conta com uma área dedicada às crianças e uma praça de alimentação com opções diversificadas. É uma ótima opção de passeio para todas as idades, onde a família pode se divertir junto aos pequenos.</string>
+
+    <!--Theater-->
+    <string name="theatro_municipal_de_sao_paulo">Theatro Municipal de São Paulo</string>
+    <string name="description_theatro_municipal_de_sao_paulo">Construído em 1903 e inaugurado em 1911, com a ópera Hamlet, de Ambrósio Thomas, o Theatro Municipal mantém o estilo renascentista barroco, inspirado na Ópera de Paris, mesmo depois de várias reformas. O projeto foi realizado pelo escritório de Francisco Ramos de Azevedo, com a colaboração dos arquitetos italianos Cláudio e Domiziano Rossi.</string>
+    <string name="teatro_commune">Teatro Commune</string>
+    <string name="description_teatro_commune">O Teatro Commune é um espaço que pode ser usado para diversos eventos, conta com café bar, galeria de exposições e sala de espetáculos com capacidade para cerca de 80 pessoas.</string>
+    <string name="teatro_shopping_frei_caneca">Teatro Shopping Frei Caneca</string>
+    <string name="description_teatro_shopping_frei_caneca">Inaugurado em 2005, o Teatro Shopping Frei Caneca possui um dos maiores palcos de teatro do país e conta com 600 lugares. Sua infraestrutura possibilita a realização de espetáculos simultâneos.</string>
+    <string name="teatro_joao_caetano">Teatro João Caetano</string>
+    <string name="description_teatro_joao_caetano">Inaugurado em 25 de dezembro de 1952, o Teatro João Caetano carrega em seu nome de batismo uma homenagem ao memorável ator carioca, que viveu entre 1808 e 1863, e foi o responsável pela criação da primeira companhia nacional de atores.</string>
+    <string name="teatro_renault">Teatro Renault</string>
+    <string name="description_teatro_renault">O antigo Teatro Abril passou, a partir do dia 1 de novembro de 2012, a se chamar Teatro Renault. O espaço tem capacidade para 1530 espectadores e tem recebido montagens da Broadway como Les Misérables, A Bela e a Fera, Chicago, Miss Saigon e a Família Addams. A infraestrutura conta com cafeterias junto da bilheteria e no hall do teatro, além de lojas de lembranças dos espetáculos.</string>
+</resources>
